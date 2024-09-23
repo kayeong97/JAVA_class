@@ -1,7 +1,6 @@
 public class Add {
     public static void main(String[] args){
         //예외처리 사용
-        //위에 벌레 옆에 ... 눌러서 제일 밑 눌러서 program arguments에 입력하면 됨
 
         int sum = 0;
         for(String s: args){
